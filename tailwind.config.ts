@@ -52,6 +52,17 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				// Custom design system colors
+				'app-sidebar': 'hsl(var(--sidebar))',
+				'app-sidebar-border': 'hsl(var(--sidebar-border))',
+				'app-toolbar': 'hsl(var(--toolbar))',
+				'app-canvas': 'hsl(var(--canvas))',
+				'app-canvas-grid': 'hsl(var(--canvas-grid))',
+				'app-nav-item': 'hsl(var(--nav-item))',
+				'app-nav-item-active': 'hsl(var(--nav-item-active))',
+				'app-tool-button': 'hsl(var(--tool-button))',
+				'app-tool-button-hover': 'hsl(var(--tool-button-hover))',
+				'app-tool-button-active': 'hsl(var(--tool-button-active))',
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
